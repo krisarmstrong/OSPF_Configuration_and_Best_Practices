@@ -8,7 +8,7 @@ This repository contains an in-depth guide to configuring and troubleshooting OS
 - Best practices for optimizing OSPF performance
 
 ## Files
-- [OSPF Configuration & Troubleshooting Guide](Ospf_Config_Troubleshooting.md)
+- [OSPF Configuration & Troubleshooting Guide](OSPF_Configuration_and_Best_Practices.md)
 - [Contributions](CONTRIBUTIONS.md)
 
 ## License
